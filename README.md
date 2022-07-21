@@ -1,13 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=350&section=header&text=Hello, world!%20&fontSize=90)
-
-
+!
+<p align="center">
+<img src="[https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=350&section=header&text=Hello, world!%20&fontSize=90)">
+</p>
 
 <h4 align="center">✌It's me!✌️</h4>
 
 <p align="center">Playing is the best🎉
 <br/> But... <br/> 🤔... <br/> <br/> it's also good to develop! 👍 </p>
-
-
 
 <h4 align="center">Hi there!👋</h4>
 
@@ -15,13 +14,7 @@
     💻 I'm Park Ha-ryun, the front-end developer. <br/>
     👌 I can also project planning and design and UIUX!</p>
 
-
-
-
-
 <h3 align="center">📚 Tech SKILLS 📚</h3>
-
-
 
 <p align="center"> 
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white">
