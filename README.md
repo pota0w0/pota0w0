@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=350&section=header&text=Hello, world!%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=300&section=header&text=Hello, world!%20&fontSize=90" />
 </div>
 
 
