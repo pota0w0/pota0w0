@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=350&section=header&text=Hello, world!%20&fontSize=90)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=350&section=header&text=Hello, world!%20&fontSize=90" />
+</div>
+
 
 <h4 align="center">✌It's me!✌️</h4>
 
@@ -10,7 +13,7 @@
 <p align="center">
     💻 I'm Park Ha-ryun, the front-end developer. <br/>
     👌 I can also project planning and design and UIUX!</p>
-
+<br/>
 <h3 align="center">📚 Tech SKILLS 📚</h3>
 
 <p align="center"> 
@@ -38,10 +41,11 @@
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white">
 </p>
-
+<br/>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pota0w0&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+<img src="https://github-readme-stats.vercel.app/api?username=pota0w0&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue" />
 </div>
+
 
