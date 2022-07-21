@@ -3,12 +3,12 @@
 </div>
 
 
-<h4 align="center">✌It's me!✌️</h4>
+<h3 align="center">✌It's me!✌️</h3>
 
 <p align="center">Playing is the best🎉
 <br/> But... <br/> 🤔... <br/> <br/> it's also good to develop! 👍 </p>
 
-<h4 align="center">Hi there!👋</h4>
+<h3 align="center">Hi there!👋</h3>
 
 <p align="center">
     💻 I'm Park Ha-ryun, the front-end developer. <br/>
