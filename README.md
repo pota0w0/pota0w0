@@ -1,7 +1,4 @@
-!
-<p align="center">
-<img src="[https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=350&section=header&text=Hello, world!%20&fontSize=90)">
-</p>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&height=350&section=header&text=Hello, world!%20&fontSize=90)
 
 <h4 align="center">✌It's me!✌️</h4>
 
@@ -42,10 +39,9 @@
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white">
 </p>
 
-
-
-
-
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pota0w0&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)
+</div>
+
