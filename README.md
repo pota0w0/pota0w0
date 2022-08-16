@@ -1,6 +1,7 @@
 <div align="center>
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=&color=timeGradient&height=300&section=header&text=Hello! World!%20render&fontSize=90" />
+    <img align="center" src="https://capsule-render.vercel.app/api?type=rounded&color=&color=timeGradient&height=300&section=header&text=Hello! World!%20render&fontSize=90" />
 </div>
+
 <h3 align="center">✌It's me!✌️</h3>
 
 <p align="center">Playing is the best🎉
