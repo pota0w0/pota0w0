@@ -10,7 +10,7 @@
 <h3 align="center">Hi there!👋</h3>
 
 <p align="center">
-    💻 I'm Park Ha-ryun, the front-end developer. <br/>
+    💻 I'm Park Ha-ryun, the web publisher. but I dreaming of being a front-end developer. <br/>
     👌 I can also project planning and design and UIUX!</p>
 <br/>
 <h3 align="center">📚 Tech SKILLS 📚</h3>
